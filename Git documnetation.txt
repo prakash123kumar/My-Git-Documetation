@@ -1,0 +1,18 @@
+git commands to upload data in online
+
+git init
+git status
+git add -A
+git commit -m "Commit comment"
+git status
+git remote -v
+git remote add origin https://github.com/prakash123kumar/Bootstrap-Table-Flask.git
+git branch -u origin master
+above to upload data on git
+
+SSL varificateion value in config file as Flase and after that i got a new popup
+git config --global Http.sslVerify false
+
+
+
+
